@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rmw/GwCi9oxVlUSnJi5n/ujHI5aXV7RJ4n9HY4w6ziCBw7U7/W/7tOBXzYtKRIwpChx0iO1s02eX3navExxbTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\venka\\source\\repos\\RabbitMQReciever\\RabbitMQReciever.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\venka\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\venka\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\venka\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\venka\source\repos\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQSender.exe
+C:\Users\venka\source\repos\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQSender.deps.json
+C:\Users\venka\source\repos\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQSender.runtimeconfig.json
+C:\Users\venka\source\repos\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQSender.runtimeconfig.dev.json
+C:\Users\venka\source\repos\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQSender.dll
+C:\Users\venka\source\repos\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQSender.pdb
+C:\Users\venka\source\repos\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\venka\source\repos\RabbitMQ\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\venka\source\repos\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQSender.csproj.AssemblyReference.cache
+C:\Users\venka\source\repos\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQSender.AssemblyInfoInputs.cache
+C:\Users\venka\source\repos\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQSender.AssemblyInfo.cs
+C:\Users\venka\source\repos\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQSender.csproj.CoreCompileInputs.cache
+C:\Users\venka\source\repos\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQSender.csproj.CopyComplete
+C:\Users\venka\source\repos\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQSender.dll
+C:\Users\venka\source\repos\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQSender.pdb
+C:\Users\venka\source\repos\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQSender.genruntimeconfig.cache

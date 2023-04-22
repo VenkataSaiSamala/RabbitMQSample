@@ -1,0 +1,16 @@
+C:\Users\venka\source\repos\RabbitMQRevieverBak\bin\Debug\netcoreapp3.1\RabbitMQRevieverBak.exe
+C:\Users\venka\source\repos\RabbitMQRevieverBak\bin\Debug\netcoreapp3.1\RabbitMQRevieverBak.deps.json
+C:\Users\venka\source\repos\RabbitMQRevieverBak\bin\Debug\netcoreapp3.1\RabbitMQRevieverBak.runtimeconfig.json
+C:\Users\venka\source\repos\RabbitMQRevieverBak\bin\Debug\netcoreapp3.1\RabbitMQRevieverBak.runtimeconfig.dev.json
+C:\Users\venka\source\repos\RabbitMQRevieverBak\bin\Debug\netcoreapp3.1\RabbitMQRevieverBak.dll
+C:\Users\venka\source\repos\RabbitMQRevieverBak\bin\Debug\netcoreapp3.1\RabbitMQRevieverBak.pdb
+C:\Users\venka\source\repos\RabbitMQRevieverBak\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\venka\source\repos\RabbitMQRevieverBak\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\venka\source\repos\RabbitMQRevieverBak\obj\Debug\netcoreapp3.1\RabbitMQRevieverBak.csproj.AssemblyReference.cache
+C:\Users\venka\source\repos\RabbitMQRevieverBak\obj\Debug\netcoreapp3.1\RabbitMQRevieverBak.AssemblyInfoInputs.cache
+C:\Users\venka\source\repos\RabbitMQRevieverBak\obj\Debug\netcoreapp3.1\RabbitMQRevieverBak.AssemblyInfo.cs
+C:\Users\venka\source\repos\RabbitMQRevieverBak\obj\Debug\netcoreapp3.1\RabbitMQRevieverBak.csproj.CoreCompileInputs.cache
+C:\Users\venka\source\repos\RabbitMQRevieverBak\obj\Debug\netcoreapp3.1\RabbitMQRevieverBak.csproj.CopyComplete
+C:\Users\venka\source\repos\RabbitMQRevieverBak\obj\Debug\netcoreapp3.1\RabbitMQRevieverBak.dll
+C:\Users\venka\source\repos\RabbitMQRevieverBak\obj\Debug\netcoreapp3.1\RabbitMQRevieverBak.pdb
+C:\Users\venka\source\repos\RabbitMQRevieverBak\obj\Debug\netcoreapp3.1\RabbitMQRevieverBak.genruntimeconfig.cache

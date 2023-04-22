@@ -1,0 +1,16 @@
+C:\Users\venka\source\repos\RabbitMQReciever\bin\Debug\netcoreapp3.1\RabbitMQReciever.exe
+C:\Users\venka\source\repos\RabbitMQReciever\bin\Debug\netcoreapp3.1\RabbitMQReciever.deps.json
+C:\Users\venka\source\repos\RabbitMQReciever\bin\Debug\netcoreapp3.1\RabbitMQReciever.runtimeconfig.json
+C:\Users\venka\source\repos\RabbitMQReciever\bin\Debug\netcoreapp3.1\RabbitMQReciever.runtimeconfig.dev.json
+C:\Users\venka\source\repos\RabbitMQReciever\bin\Debug\netcoreapp3.1\RabbitMQReciever.dll
+C:\Users\venka\source\repos\RabbitMQReciever\bin\Debug\netcoreapp3.1\RabbitMQReciever.pdb
+C:\Users\venka\source\repos\RabbitMQReciever\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\venka\source\repos\RabbitMQReciever\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\venka\source\repos\RabbitMQReciever\obj\Debug\netcoreapp3.1\RabbitMQReciever.csproj.AssemblyReference.cache
+C:\Users\venka\source\repos\RabbitMQReciever\obj\Debug\netcoreapp3.1\RabbitMQReciever.AssemblyInfoInputs.cache
+C:\Users\venka\source\repos\RabbitMQReciever\obj\Debug\netcoreapp3.1\RabbitMQReciever.AssemblyInfo.cs
+C:\Users\venka\source\repos\RabbitMQReciever\obj\Debug\netcoreapp3.1\RabbitMQReciever.csproj.CoreCompileInputs.cache
+C:\Users\venka\source\repos\RabbitMQReciever\obj\Debug\netcoreapp3.1\RabbitMQReciever.csproj.CopyComplete
+C:\Users\venka\source\repos\RabbitMQReciever\obj\Debug\netcoreapp3.1\RabbitMQReciever.dll
+C:\Users\venka\source\repos\RabbitMQReciever\obj\Debug\netcoreapp3.1\RabbitMQReciever.pdb
+C:\Users\venka\source\repos\RabbitMQReciever\obj\Debug\netcoreapp3.1\RabbitMQReciever.genruntimeconfig.cache
